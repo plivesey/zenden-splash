@@ -25,4 +25,4 @@ We would be happy to answer any questions about data collection and storage. Ple
 
 <br><br>
 **Last updated**  
-November 11, 2019
+November 9, 2019

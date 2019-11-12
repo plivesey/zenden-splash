@@ -30,11 +30,13 @@ $(function() {
                 $($appIconLarge).attr("src", appInfo.artworkUrl512);
             }
 
+            // This seems broken on the press kit page. Unsure why but appName is null, so this gets replaced
+            // We don't need this so getting rid of this code
             // Set header app icon using the iOS app ID if it is not set manually in _config.yml
-            var $appIconHeader = $(".headerIcon");
-            if (!$appIconHeader.attr('src')) {
-                $($appIconHeader).attr("src", appInfo.artworkUrl512);
-            }
+            // var $appIconHeader = $(".headerIcon");
+            // if (!$appIconHeader.attr('src')) {
+            //     $($appIconHeader).attr("src", appInfo.artworkUrl512);
+            // }
 
             // This seems broken on the press kit page. Unsure why but appName is null, so this gets replaced
             // We don't need this so getting rid of this code
