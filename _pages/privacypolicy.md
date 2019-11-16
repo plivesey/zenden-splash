@@ -23,6 +23,9 @@ We may amend this Privacy Policy from time to time. Any changes will be placed h
 ## 5. Contact Us
 We would be happy to answer any questions about data collection and storage. Please email us at hello@zendenapp.com.
 
+#### Terms of Service
+Our [Terms and Conditions of Service](/terms) can be referenced on our website.
+
 <br><br>
 **Last updated**  
-November 9, 2019
+November 16, 2019
